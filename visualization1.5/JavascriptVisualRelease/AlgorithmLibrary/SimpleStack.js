@@ -38,10 +38,10 @@ SimpleStack.superclass = Algorithm.prototype;
 
 SimpleStack.ELEMENT_WIDTH = 50;
 SimpleStack.ELEMENT_HEIGHT = 50;
-SimpleStack.INSERT_X = 30;
-SimpleStack.INSERT_Y = 30;
-SimpleStack.STARTING_X = 30;
-SimpleStack.STARTING_Y = 100;
+SimpleStack.INSERT_X = 50;
+SimpleStack.INSERT_Y = 50;
+SimpleStack.STARTING_X = 500;
+SimpleStack.STARTING_Y = 400;
 SimpleStack.FOREGROUND_COLOR = "#000000"
 SimpleStack.BACKGROUND_COLOR = "#fff"
 
