@@ -1,4 +1,4 @@
-#Helloooooo# 
+#HellooooooThere# 
 # sorting.js
 A visualization for a bunch of different sorting algorithms in Javascript.
 
